@@ -1,0 +1,1 @@
+# Diagnostico Diabetes App
